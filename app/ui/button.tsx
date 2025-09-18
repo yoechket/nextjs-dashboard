@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import clsx from 'clsx';
 
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {

@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import { clsx } from 'clsx';
 import Link from 'next/link';
 import { lusitana } from '@/app/ui/fonts';

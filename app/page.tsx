@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import AcmeLogo from '@/app/ui/acme-logo';
 import { lusitana } from '@/app/ui/fonts';
 import styles from '@/app/ui/home.module.css';

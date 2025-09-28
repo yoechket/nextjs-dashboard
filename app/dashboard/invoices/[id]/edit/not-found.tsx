@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import Link from 'next/link';
 import { FaceFrownIcon } from '@heroicons/react/24/outline';
 

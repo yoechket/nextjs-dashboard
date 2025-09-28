@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 'use client';
 
 import { ArrowLeftIcon, ArrowRightIcon } from '@heroicons/react/24/outline';

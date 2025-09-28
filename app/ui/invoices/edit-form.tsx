@@ -24,7 +24,6 @@ export default function EditInvoiceForm({
   const [state, formAction] = useActionState(updateInvoice.bind(null, invoice.id), initialState);
 
   return (
-    // eslint-disable-next-line react/react-in-jsx-scope
     <form action={formAction}>
       <div className="rounded-md bg-gray-50 p-4 md:p-6">
         {/* Invoice ID */}

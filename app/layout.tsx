@@ -1,4 +1,4 @@
-/* eslint-disable react/react-in-jsx-scope */
+import React from 'react';
 import '@/app/ui/global.css'
 import { inter } from '@/app/ui/fonts';
 import type { Metadata } from 'next';

@@ -1,4 +1,4 @@
-/* eslint-disable react/react-in-jsx-scope */
+import React from 'react';
 'use client';
 
 import { CustomerField } from '@/app/lib/definitions';
